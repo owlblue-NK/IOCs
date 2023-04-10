@@ -244,3 +244,14 @@ myappearinc.com
 kubusse.ru
 curlmyip.com
 svntrk.com
+
+#Ransomware Lockbit 3.0
+www.premiumize.com
+anonfiles.com
+www.sendspace.com
+fex.net
+transfer.sh
+send.exploit.in
+mega.io
+ngrok.com
+
