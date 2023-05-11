@@ -354,3 +354,5 @@
 #SO
 151.106.38.75
 #https://www.virustotal.com/gui/ip-address/151.106.38.75
+89.248.163.200
+#https://www.virustotal.com/gui/ip-address/89.248.163.200
