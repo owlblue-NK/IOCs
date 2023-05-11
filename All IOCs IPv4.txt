@@ -347,5 +347,10 @@
 43.245.199.197
 #RedPacket Security
 
+#Fortimail
 202.166.194.21
-#fortimail https://www.abuseipdb.com/check/202.166.194.21
+#https://www.abuseipdb.com/check/202.166.194.21
+
+#SO
+151.106.38.75
+#https://www.virustotal.com/gui/ip-address/151.106.38.75
