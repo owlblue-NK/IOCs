@@ -530,4 +530,9 @@
 #https://www.virustotal.com/gui/ip-address/205.210.31.151
 #https://www.virustotal.com/gui/ip-address/205.210.31.165
 #https://www.virustotal.com/gui/ip-address/205.210.31.250
-
+194.165.16.10
+194.165.16.72
+194.165.16.76
+#https://www.virustotal.com/gui/ip-address/194.165.16.10
+#https://www.virustotal.com/gui/ip-address/194.165.16.72
+#https://www.virustotal.com/gui/ip-address/194.165.16.76
