@@ -486,7 +486,6 @@
 64.62.197.197
 64.62.197.208
 64.62.197.210
-152.89.196.144
 179.43.163.132
 194.165.16.76
 198.235.24.242
@@ -497,7 +496,6 @@
 #https://www.virustotal.com/gui/ip-address/64.62.197.197
 #https://www.virustotal.com/gui/ip-address/64.62.197.208
 #https://www.virustotal.com/gui/ip-address/64.62.197.210
-#https://www.virustotal.com/gui/ip-address/152.89.196.144
 #https://www.virustotal.com/gui/ip-address/179.43.163.132
 #https://www.virustotal.com/gui/ip-address/194.165.16.76
 #https://www.virustotal.com/gui/ip-address/198.235.24.242
@@ -547,7 +545,6 @@
 82.157.25.28
 88.249.56.14
 89.248.165.76
-152.89.196.144
 159.65.111.248
 172.105.128.11
 179.43.163.132
@@ -564,7 +561,6 @@
 #https://www.virustotal.com/gui/ip-address/82.157.25.28
 #https://www.virustotal.com/gui/ip-address/88.249.56.14
 #https://www.virustotal.com/gui/ip-address/89.248.165.76
-#https://www.virustotal.com/gui/ip-address/152.89.196.144
 #https://www.virustotal.com/gui/ip-address/159.65.111.248
 #https://www.virustotal.com/gui/ip-address/172.105.128.11
 #https://www.virustotal.com/gui/ip-address/179.43.163.132
@@ -586,7 +582,6 @@
 71.6.232.25
 90.151.171.106
 109.237.98.226
-152.89.196.144
 198.235.24.123
 205.210.31.165
 #https://www.virustotal.com/gui/ip-address/45.227.254.55
@@ -603,10 +598,7 @@
 #https://www.virustotal.com/gui/ip-address/71.6.232.25
 #https://www.virustotal.com/gui/ip-address/90.151.171.106
 #https://www.virustotal.com/gui/ip-address/109.237.98.226
-#https://www.virustotal.com/gui/ip-address/152.89.196.144
 #https://www.virustotal.com/gui/ip-address/198.235.24.123
 #https://www.virustotal.com/gui/ip-address/205.210.31.165
 183.136.225.32
 #https://www.virustotal.com/gui/ip-address/183.136.225.32
-152.89.196.144
-#dimas
