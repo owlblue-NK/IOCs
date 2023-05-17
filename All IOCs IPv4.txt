@@ -626,3 +626,5 @@
 #https://www.virustotal.com/gui/ip-address/23.129.64.213
 #https://www.virustotal.com/gui/ip-address/23.129.64.216
 #https://www.virustotal.com/gui/ip-address/23.129.64.227
+36.110.228.254
+#https://www.virustotal.com/gui/ip-address/36.110.228.254
