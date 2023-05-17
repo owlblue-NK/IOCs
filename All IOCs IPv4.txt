@@ -628,3 +628,7 @@
 #https://www.virustotal.com/gui/ip-address/23.129.64.227
 36.110.228.254
 #https://www.virustotal.com/gui/ip-address/36.110.228.254
+85.132.96.218
+117.2.165.62
+#https://www.virustotal.com/gui/ip-address/85.132.96.218
+#https://threatbook.io/ip/117.2.165.62
