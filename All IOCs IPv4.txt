@@ -632,3 +632,13 @@
 117.2.165.62
 #https://www.virustotal.com/gui/ip-address/85.132.96.218
 #https://threatbook.io/ip/117.2.165.62
+45.8.145.120
+109.237.97.180
+45.147.250.222
+65.49.20.69
+80.82.78.4
+#https://www.virustotal.com/gui/ip-address/45.8.145.120
+#https://www.virustotal.com/gui/ip-address/109.237.97.180
+#https://www.virustotal.com/gui/ip-address/45.147.250.222
+#https://www.virustotal.com/gui/ip-address/65.49.20.69
+#https://www.virustotal.com/gui/ip-address/80.82.78.4
