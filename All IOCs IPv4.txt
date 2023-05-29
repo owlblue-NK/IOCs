@@ -1247,3 +1247,7 @@
 #https://www.abuseipdb.com/check/205.210.31.98
 #https://www.abuseipdb.com/check/205.210.31.153
 #https://www.abuseipdb.com/check/205.210.31.162
+71.6.232.28
+71.6.232.22
+#https://www.virustotal.com/gui/ip-address/71.6.232.28
+#https://www.virustotal.com/gui/ip-address/71.6.232.22
