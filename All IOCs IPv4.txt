@@ -1091,10 +1091,14 @@
 #https://www.virustotal.com/gui/ip-address/198.235.24.115
 35.240.121.17
 #https://www.virustotal.com/gui/ip-address/35.240.121.17
-
-
-
-
-
-
+65.49.20.66
+65.49.20.83
+65.49.20.84
+65.49.20.95
+65.49.20.104
+#https://www.virustotal.com/gui/ip-address/65.49.20.66
+#https://www.virustotal.com/gui/ip-address/65.49.20.83
+#https://www.virustotal.com/gui/ip-address/65.49.20.84
+#https://www.virustotal.com/gui/ip-address/65.49.20.95
+#https://www.virustotal.com/gui/ip-address/65.49.20.104
 
