@@ -1077,6 +1077,13 @@
 #https://www.abuseipdb.com/check/104.152.52.208
 #https://www.abuseipdb.com/check/104.152.52.210
 #https://www.abuseipdb.com/check/104.152.52.218
+185.167.96.138
+185.170.144.3
+#https://www.virustotal.com/gui/ip-address/185.167.96.138
+#https://www.abuseipdb.com/check/185.167.96.138
+#https://www.virustotal.com/gui/ip-address/185.170.144.3
+#https://www.abuseipdb.com/check/185.170.144.3
+
 
 
 
