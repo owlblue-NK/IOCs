@@ -1329,5 +1329,10 @@
 #https://www.virustotal.com/gui/ip-address/205.210.31.205
 #https://www.virustotal.com/gui/ip-address/205.210.31.213
 #https://www.virustotal.com/gui/ip-address/205.210.31.237
+65.49.20.96
+66.240.236.109
+#https://www.virustotal.com/gui/ip-address/65.49.20.96
+#https://www.virustotal.com/gui/ip-address/66.240.236.109
+
 
 
