@@ -1990,7 +1990,38 @@
 #https://www.virustotal.com/gui/ip-address/205.210.31.73
 #https://www.virustotal.com/gui/ip-address/205.210.31.74
 #https://www.virustotal.com/gui/ip-address/205.210.31.255
-
+35.203.210.97
+35.203.211.173
+205.210.31.70
+205.210.31.200
+45.79.102.48
+64.62.197.203
+64.62.197.205
+64.62.197.207
+64.62.197.209
+96.126.109.188
+109.207.200.42
+141.98.6.137
+162.216.150.152
+198.235.24.77
+198.235.24.239
+205.210.31.8
+#https://www.virustotal.com/gui/ip-address/35.203.210.97
+#https://www.virustotal.com/gui/ip-address/35.203.211.173
+#https://www.virustotal.com/gui/ip-address/205.210.31.70
+#https://www.virustotal.com/gui/ip-address/205.210.31.200
+#https://www.virustotal.com/gui/ip-address/45.79.102.48
+#https://www.virustotal.com/gui/ip-address/64.62.197.203
+#https://www.virustotal.com/gui/ip-address/64.62.197.205
+#https://www.virustotal.com/gui/ip-address/64.62.197.207
+#https://www.virustotal.com/gui/ip-address/64.62.197.209
+#https://www.abuseipdb.com/check/96.126.109.188
+#https://www.virustotal.com/gui/ip-address/109.207.200.42
+#https://www.virustotal.com/gui/ip-address/141.98.6.137
+#https://www.virustotal.com/gui/ip-address/162.216.150.152
+#https://www.virustotal.com/gui/ip-address/198.235.24.77
+#https://www.virustotal.com/gui/ip-address/198.235.24.239
+#https://www.virustotal.com/gui/ip-address/205.210.31.8
 
 
 
