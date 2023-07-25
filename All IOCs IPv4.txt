@@ -2590,6 +2590,33 @@
 #https://www.virustotal.com/gui/ip-address/58.144.148.20
 #https://www.virustotal.com/gui/ip-address/64.62.197.101
 #https://www.virustotal.com/gui/ip-address/65.49.1.54
+138.199.40.173
+36.225.129.2
+92.118.39.40
+#20.234.37.63 (microsoft.com)
+20.234.37.63
+198.235.24.114
+5.181.80.139
+47.253.83.123
+112.217.110.114
+172.104.11.34
+18.219.76.101
+154.209.125.123
+155.254.26.177
+159.65.60.90
+https://www.virustotal.com/gui/ip-address/138.199.40.173
+https://www.virustotal.com/gui/ip-address/36.225.129.2
+https://www.virustotal.com/gui/ip-address/92.118.39.40
+https://www.abuseipdb.com/check/20.234.37.63
+https://www.virustotal.com/gui/ip-address/198.235.24.114
+https://www.virustotal.com/gui/ip-address/5.181.80.139
+https://www.abuseipdb.com/check/47.253.83.123
+https://www.abuseipdb.com/check/112.217.110.114
+https://www.virustotal.com/gui/ip-address/172.104.11.34
+https://www.abuseipdb.com/check/18.219.76.101
+https://www.abuseipdb.com/check/154.209.125.123
+https://www.abuseipdb.com/check/155.254.26.177
+https://www.abuseipdb.com/check/159.65.60.90
 
 
 
