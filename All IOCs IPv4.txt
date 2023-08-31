@@ -3005,7 +3005,10 @@ https://www.abuseipdb.com/check/159.65.60.90
 #https://www.virustotal.com/gui/ip-address/151.106.38.219
 #https://www.virustotal.com/gui/ip-address/167.94.145.55
 #https://www.virustotal.com/gui/ip-address/170.64.154.131
-
+180.101.88.229
+95.181.236.138
+#https://threatbook.io/ip/180.101.88.229
+#https://threatbook.io/ip/95.181.236.138
 
 
 
