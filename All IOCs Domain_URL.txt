@@ -260,7 +260,9 @@ quickconnect.io
 favgrandson7.sytes.net
 fv9-2.failiem.lv
 https://fv9-2.failiem.lv/down.php?i=nvge8wkk3
+cmnb9.cc
 
 #https://www.virustotal.com/gui/domain/quickconnect.io
 #https://www.virustotal.com/gui/domain/favgrandson7.sytes.net
 #https://www.virustotal.com/gui/url/b53f9a909a22057d3138d1758481ffc5036bfe9a12698203d0425406bb409e22
+#https://www.virustotal.com/gui/domain/cmnb9.cc
