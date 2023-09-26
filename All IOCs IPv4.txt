@@ -3104,3 +3104,18 @@
 #https://www.virustotal.com/gui/ip-address/90.151.171.106
 #https://www.virustotal.com/gui/ip-address/90.151.171.109
 
+#GPL ICMP_INFO PING *NIX
+163.181.26.131
+163.181.26.132
+107.155.54.4
+125.24.253.132
+163.181.74.131
+163.181.90.133
+163.181.94.131
+#https://www.virustotal.com/gui/ip-address/163.181.26.131
+#https://www.virustotal.com/gui/ip-address/163.181.26.132
+#https://www.virustotal.com/gui/ip-address/107.155.54.4
+#https://www.virustotal.com/gui/ip-address/125.24.253.132
+#https://www.virustotal.com/gui/ip-address/163.181.74.131
+#https://www.virustotal.com/gui/ip-address/163.181.90.133
+#https://www.virustotal.com/gui/ip-address/163.181.94.131
