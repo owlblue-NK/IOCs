@@ -3098,3 +3098,9 @@
 #https://www.virustotal.com/gui/ip-address/118.190.144.155
 #https://www.virustotal.com/gui/ip-address/120.193.179.86
 
+#ET CINS Active Threat Intelligence Poor Reputation IP group 92
+90.151.171.106
+90.151.171.109
+#https://www.virustotal.com/gui/ip-address/90.151.171.106
+#https://www.virustotal.com/gui/ip-address/90.151.171.109
+
