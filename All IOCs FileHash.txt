@@ -33,3 +33,7 @@ b29fd9888862c4862c7729ba729ff90a34efc6858d8a3dea390ec89bdff97465
 #https://www.virustotal.com/gui/file/1fd07b8d1728e416f897bef4f1471126f9b18ef108eb952f4b75050da22e8e43
 #https://otx.alienvault.com/indicator/file/0c1eb11de3a533689267ba075e49d93d55308525c04d6aff0d2c54d1f52f5500
 #https://www.virustotal.com/gui/file/40126ae71b857dd22db39611c25d3d5dd0e60316b72830e930fba9baf23973ce
+
+#https://lk21.pictures/ilk21/
+eea0a279c50ab80a12885fe706066cf189340275b9bad0d15ccd34a716240be7
+#https://www.virustotal.com/gui/url/67827131f0348cfcbe2e2a2d0a0346ddea273cc7b0423641a68a60466147b94c/detection
