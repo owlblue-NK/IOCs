@@ -3120,7 +3120,14 @@
 #https://www.virustotal.com/gui/ip-address/163.181.90.133
 #https://www.virustotal.com/gui/ip-address/163.181.94.131
 
-172.67.132.19
-104.21.4.124
-
-94.102.61.53
+#BianLian Ransomware | 13102023
+45.92.156.105
+5.188.6.118
+40.127.240.158
+20.31.108.18
+20.54.89.15
+#https://www.virustotal.com/gui/ip-address/45.92.156.105
+#https://www.virustotal.com/gui/ip-address/5.188.6.118
+#https://www.virustotal.com/gui/ip-address/40.127.240.158/relations
+#https://www.virustotal.com/gui/ip-address/20.31.108.18/relations
+#https://www.virustotal.com/gui/ip-address/20.54.89.15
