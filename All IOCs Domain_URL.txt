@@ -1,3 +1,21 @@
+#Mothly Report SOC
+clop.cloudns.ph
+mail.cbkipa.net
+sonicleads.io
+popi.cloudns.ph
+panjunan.com
+chinzbit.com
+amluxtours.com
+#https[:]//threatbook[.]io/domain/cloudns[.]ph
+#https[:]//www[.]virustotal[.]com/gui/domain/mail[.]cbkipa[.]net
+#https[:]//www[.]virustotal[.]com/gui/domain/sonicleads[.]io
+#https[:]//threatbook[.]io/domain/cloudns[.]ph
+#https[:]//www[.]virustotal[.]com/gui/domain/panjunan[.]com
+#https[:]//www[.]virustotal[.]com/gui/domain/chinzbit[.]com
+#https[:]//www[.]virustotal[.]com/gui/domain/amluxtours[.]com
+
+#Sumber Komunitas/Publik
+
 #Malware RedLine Stealer
 frederikkempe.com
 majul.com
