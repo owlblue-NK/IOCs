@@ -1,3 +1,7 @@
+#Mothly Report SOC
+
+#Sumber Komunitas/Publik
+
 #Ransomware LockBit 3.0
 5fff24d4e24b54ac51a129982be591aa59664c888dd9fc9f26da7b226c55d835
 bb574434925e26514b0daf56b45163e4c32b5fc52a1484854b315f40fd8ff8d2
