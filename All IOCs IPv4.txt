@@ -177,6 +177,24 @@
 94.102.61.53
 179.43.191.194
 87.251.64.140
+170.106.104.191
+125.74.93.228
+77.235.17.171
+69.58.124.234
+20.42.101.211
+114.217.18.245
+120.71.0.5
+185.11.61.130
+5.10.250.122
+61.132.228.71
+124.248.229.250
+179.43.177.242
+179.60.147.157
+193.142.146.214
+91.195.91.70
+179.60.147.106
+124.248.238.50
+64.112.72.242
 #https[:]//www.virustotal.com/gui/ip-address/92.118.39.248
 #https[:]//www.virustotal.com/gui/ip-address/31.7.60.114
 #https[:]//www.virustotal.com/gui/ip-address/80.66.88.203
@@ -187,6 +205,24 @@
 #https[:]//www.virustotal.com/gui/ip-address/94.102.61.53
 #https[:]//www.virustotal.com/gui/ip-address/179.43.191.194
 #https[:]//www.virustotal.com/gui/ip-address/87.251.64.140
+#https[:]//threatbook.io/ip/170.106.104.191
+#https[:]//www.virustotal.com/gui/ip-address/125.74.93.228
+#https[:]//threatbook.io/ip/77.235.17.171
+#https[:]//www.virustotal.com/gui/ip-address/69.58.124.234
+#https[:]//www.virustotal.com/gui/ip-address/20.42.101.211
+#https[:]//www.virustotal.com/gui/ip-address/114.217.18.245
+#https[:]//www.virustotal.com/gui/ip-address/120.71.0.5
+#https[:]//www.virustotal.com/gui/ip-address/185.11.61.130
+#https[:]//www.virustotal.com/gui/ip-address/5.10.250.122
+#https[:]//www.virustotal.com/gui/ip-address/61.132.228.71
+#https[:]//threatbook.io/ip/124.248.229.250
+#https[:]//www.virustotal.com/gui/ip-address/179.43.177.242
+#https[:]//www.virustotal.com/gui/ip-address/179.60.147.157
+#https[:]//www.virustotal.com/gui/ip-address/193.142.146.214
+#https[:]//www.virustotal.com/gui/ip-address/91.195.91.70
+#https[:]//www.virustotal.com/gui/ip-address/179.60.147.106
+#https[:]//threatbook.io/ip/124.248.238.50
+#https[:]//www.virustotal.com/gui/ip-address/64.112.72.242
 
 #Insiden By User
 #Name: ZIMBRA[.]htm
