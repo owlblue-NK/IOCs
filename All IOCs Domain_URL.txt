@@ -25,6 +25,11 @@ startasansor.com
 
 #Sumber Komunitas/Publik
 
+#Insiden By User
+https://deltas--convivial--wombat-euwest01-umbraco-io.translate.goog/media/2lgb4y4x/zim.html?_x_tr_sl=vi&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp
+baer.gob.ve
+#https://www.virustotal.com/gui/url/aa85c369f2293fdee920dbfd6e3102370d94c3d4230204a68022e9985d753854
+
 #Malware RedLine Stealer
 frederikkempe.com
 majul.com
