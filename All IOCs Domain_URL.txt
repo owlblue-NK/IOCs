@@ -30,6 +30,13 @@ https://deltas--convivial--wombat-euwest01-umbraco-io.translate.goog/media/2lgb4
 baer.gob.ve
 #https://www.virustotal.com/gui/url/aa85c369f2293fdee920dbfd6e3102370d94c3d4230204a68022e9985d753854
 
+#Name: Info Bank BNI
+https://skema-layanan-tarif-bank-bni.liv2.org
+infobanknews.com
+applycreditcard.bni.co.id
+skema-layanan-tarif-bank-bni.liv2.org
+bukarekening.bni.co.id
+
 #Malware RedLine Stealer
 frederikkempe.com
 majul.com
