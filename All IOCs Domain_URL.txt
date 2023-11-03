@@ -1,4 +1,5 @@
 #Mothly Report SOC
+#Juni-Juli 2023
 clop.cloudns.ph
 mail.cbkipa.net
 sonicleads.io
@@ -14,8 +15,13 @@ amluxtours.com
 #https[:]//www[.]virustotal[.]com/gui/domain/chinzbit[.]com
 #https[:]//www[.]virustotal[.]com/gui/domain/amluxtours[.]com
 
+#Agustus 2023
 zte-cn.com
 #https[:]//www[.]virustotal[.]com/gui/domain/zte-cn[.]com
+
+#September 2023
+startasansor.com
+#https[:]//www.virustotal.com/gui/domain/startasansor.com
 
 #Sumber Komunitas/Publik
 
