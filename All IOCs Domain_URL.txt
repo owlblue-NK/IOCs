@@ -14,6 +14,9 @@ amluxtours.com
 #https[:]//www[.]virustotal[.]com/gui/domain/chinzbit[.]com
 #https[:]//www[.]virustotal[.]com/gui/domain/amluxtours[.]com
 
+zte-cn.com
+#https[:]//www[.]virustotal[.]com/gui/domain/zte-cn[.]com
+
 #Sumber Komunitas/Publik
 
 #Malware RedLine Stealer
