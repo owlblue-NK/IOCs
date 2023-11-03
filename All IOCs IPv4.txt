@@ -1,4 +1,5 @@
 #Mothly Report SOC
+#Juni-Juli 2023
 209.197.3.8
 117.18.232.240
 117.121.250.129
@@ -59,6 +60,7 @@
 #https[:]//www[.]virustotal[.]com/gui/ip-address/109.248.170[.]232
 #https://www.virustotal.com/gui/ip-address/202.166.194.21
 
+#Agustus 2023
 23.220.203.11
 103.109.210.9
 91.240.118.135
@@ -111,6 +113,58 @@
 #https[:]//www[.]virustotal[.]com/gui/ip-address/103.150.195[.]108
 #https[:]//www[.]virustotal[.]com/gui/ip-address/185.222.57[.]77
 #https[:]//www[.]virustotal[.]com/gui/ip-address/88.209.206[.]214
+
+#September 2023
+185.236.231.51
+153.122.54.140
+18.191.224.216
+91.90.120.141
+36.71.81.53
+36.71.82.103
+36.71.83.152
+36.71.85.138
+110.137.83.143
+182.1.229.217
+163.181.37.166
+163.181.100.131
+80.82.70.133
+193.35.18.27
+176.126.164.167
+82.115.209.40
+82.115.209.194
+88.209.206.47
+108.163.232.236
+117.102.252.133
+162.241.44.128
+192.236.155.249
+82.115.209.175
+209.61.151.160
+142.11.244.92
+#https[:]//www.abuseipdb.com/check/185.236.231.51
+#https[:]//threatbook.io/ip/153.122.54.140
+#https[:]//www.abuseipdb.com/check/18.191.224.216
+#https[:]//www.abuseipdb.com/check/91.90.120.141
+#https[:]//threatbook.io/ip/36.71.81.53
+#https[:]//threatbook.io/ip/36.71.82.103
+#https[:]//threatbook.io/ip/36.71.83.152
+#https[:]//threatbook.io/ip/36.71.85.138
+#https[:]//threatbook.io/ip/110.137.83.143
+#https[:]//threatbook.io/ip/182.1.229.217
+#https[:]//www.abuseipdb.com/check/163.181.37.166
+#https[:]//www.abuseipdb.com/check/163.181.100.131
+#https[:]//threatbook.io/ip/80.82.70.133
+#https[:]//www.virustotal.com/gui/ip-address/193.35.18.27
+#https[:]//www.virustotal.com/gui/ip-address/176.126.164.167
+#https[:]//threatbook.io/ip/82.115.209.40
+#https[:]//threatbook.io/ip/82.115.209.194
+#https[:]//threatbook.io/ip/88.209.206.47
+#https[:]//threatbook.io/ip/108.163.232.236
+#https[:]//threatbook.io/ip/117.102.252.133
+#https[:]//threatbook.io/ip/162.241.44.128
+#https[:]//www.abuseipdb.com/check/192.236.155.249
+#https[:]//threatbook.io/ip/82.115.209.175
+#https[:]//www.abuseipdb.com/check/209.61.151.160
+#https[:]//www.abuseipdb.com/check/142.11.244.92
 
 #Sumber Komunitas/Publik
 
