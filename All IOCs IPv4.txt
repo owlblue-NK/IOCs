@@ -30,6 +30,7 @@
 88.209.205.201
 88.209.206.121
 109.248.170.232
+202.166.194.21
 #https[:]//www[.]virustotal[.]com/gui/ip-address/209.197.3[.]8
 #https[:]//www[.]virustotal[.]com/gui/ip-address/117.18.232[.]240
 #https[:]//www[.]virustotal[.]com/gui/ip-address/117.121.250[.]129
@@ -56,6 +57,7 @@
 #https[:]//threatbook[.]io/ip/88.209.205[.]201
 #https[:]//threatbook[.]io/ip/88.209.206[.]121
 #https[:]//www[.]virustotal[.]com/gui/ip-address/109.248.170[.]232
+#https://www.virustotal.com/gui/ip-address/202.166.194.21
 
 #Sumber Komunitas/Publik
 
