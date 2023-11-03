@@ -168,6 +168,9 @@
 
 #Sumber Komunitas/Publik
 
+#Insiden By User
+190.205.122.90
+
 #Malware RedLine Stealer
 193.233.20.33
 3.125.188.168
