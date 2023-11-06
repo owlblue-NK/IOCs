@@ -32,6 +32,9 @@
 88.209.206.121
 109.248.170.232
 202.166.194.21
+148.153.241.186
+148.153.241.212
+
 #https[:]//www.virustotal.com/gui/ip-address/209.197.3.8
 #https[:]//www.virustotal.com/gui/ip-address/117.18.232.240
 #https[:]//www.virustotal.com/gui/ip-address/117.121.250.129
