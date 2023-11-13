@@ -3557,7 +3557,7 @@
 #https[:]//www.virustotal.com/gui/ip-address/65.49.1.61
 #https[:]//www.virustotal.com/gui/ip-address/8.210.123.17
 #https[:]//www.virustotal.com/gui/ip-address/51.89.199.117
-##https[:]//www.virustotal.com/gui/ip-address/47.100.246.208
+#https[:]//www.virustotal.com/gui/ip-address/47.100.246.208
 #https[:]//www.virustotal.com/gui/ip-address/198.235.24.92
 #https[:]//www.virustotal.com/gui/ip-address/64.227.97.195
 #https[:]//www.virustotal.com/gui/ip-address/198.235.24.209
@@ -5496,7 +5496,6 @@
 #https://www.virustotal.com/gui/ip-address/43.134.180.14
 #https://www.virustotal.com/gui/ip-address/43.133.68.16
 #https://www.virustotal.com/gui/ip-address/43.163.219.230
-<<<<<<< HEAD
 
 #06 Nov 2023
 77.90.185.182
@@ -6612,7 +6611,13 @@
 70.80.20.189
 89.248.168.235
 95.214.26.254
-
+66.240.219.146
+35.203.210.188
+18.170.98.224
+199.45.154.50
+167.248.133.183
+98.96.193.14
+98.96.193.11
 #https://www.virustotal.com/gui/ip-address/198.235.24.89
 #https://www.virustotal.com/gui/ip-address/87.236.176.77
 #https://www.virustotal.com/gui/ip-address/205.210.31.154
@@ -6626,3 +6631,54 @@
 #https://www.virustotal.com/gui/ip-address/70.80.20.189
 #https://www.virustotal.com/gui/ip-address/89.248.168.235
 #https://www.virustotal.com/gui/ip-address/95.214.26.254
+#https://www.virustotal.com/gui/ip-address/66.240.219.146
+#https://www.virustotal.com/gui/ip-address/35.203.210.188
+#https://www.virustotal.com/gui/ip-address/18.170.98.224
+#https://www.virustotal.com/gui/ip-address/199.45.154.50
+#https://www.virustotal.com/gui/ip-address/167.248.133.183
+#https://www.virustotal.com/gui/ip-address/98.96.193.14
+#https://www.virustotal.com/gui/ip-address/98.96.193.11
+
+#11 November 2023
+52.187.171.107
+87.236.176.122
+199.45.155.32
+35.203.211.117
+77.90.185.147
+34.168.94.21
+3.9.174.27
+65.49.1.53
+185.224.128.31
+35.203.211.18
+107.189.5.180
+112.73.92.167
+35.203.211.188
+87.236.176.169
+65.49.20.87
+#https://www.virustotal.com/gui/ip-address/52.187.171.107
+#https://www.virustotal.com/gui/ip-address/87.236.176.122
+#https://www.virustotal.com/gui/ip-address/199.45.155.32
+#https://www.virustotal.com/gui/ip-address/35.203.211.117
+#https://www.virustotal.com/gui/ip-address/77.90.185.147
+#https://www.virustotal.com/gui/ip-address/34.168.94.21
+#https://www.virustotal.com/gui/ip-address/3.9.174.27
+#https://www.virustotal.com/gui/ip-address/65.49.1.53
+#https://www.virustotal.com/gui/ip-address/185.224.128.31
+#https://www.virustotal.com/gui/ip-address/35.203.211.18
+#https://www.virustotal.com/gui/ip-address/107.189.5.180
+#https://www.virustotal.com/gui/ip-address/112.73.92.167
+#https://www.virustotal.com/gui/ip-address/35.203.211.188
+#https://www.virustotal.com/gui/ip-address/87.236.176.169
+#https://www.virustotal.com/gui/ip-address/65.49.20.87
+
+#12 November 2023
+51.38.12.13
+120.63.180.123
+119.167.222.135
+84.54.51.66
+167.94.146.67
+#https://www.virustotal.com/gui/ip-address/51.38.12.13
+#https://www.virustotal.com/gui/ip-address/120.63.180.123
+#https://www.virustotal.com/gui/ip-address/119.167.222.135
+#https://www.virustotal.com/gui/ip-address/84.54.51.66
+#https://www.virustotal.com/gui/ip-address/167.94.146.67
