@@ -23,6 +23,28 @@ zte-cn.com
 startasansor.com
 #https[:]//www.virustotal.com/gui/domain/startasansor.com
 
+#Oktober 2023
+vxpop.eu
+id-dhl.com
+multechs-pcb.com
+emailelld.icu
+describary.com
+floydvatourism.com
+msa.com.py
+marinecorpshat.com
+akumulatorucentrs.lv
+hwgc.com.pk
+#https://www.virustotal.com/gui/domain/vxpop.eu; Fraud Score: 90 (https://www.ipqualityscore.com/)
+#https://www.virustotal.com/gui/domain/id-dhl.com; Fraud Score: 90 (https://www.ipqualityscore.com/)
+#https://www.virustotal.com/gui/domain/multechs-pcb.com; Fraud Score: 90 (https://www.ipqualityscore.com/)
+#https://www.virustotal.com/gui/domain/emailelld.icu; Fraud Score: 90 (https://www.ipqualityscore.com/)
+#https://www.virustotal.com/gui/domain/describary.com; Blacklisted by Spamhaus DBL; Fraud Score: 80 (https://www.ipqualityscore.com/)
+#https://www.virustotal.com/gui/domain/floydvatourism.com; Blacklisted by Spamhaus DBL; Fraud Score: 80 (https://www.ipqualityscore.com/)
+#https://www.virustotal.com/gui/domain/msa.com.py/relations; Fraud Score: 80 (https://www.ipqualityscore.com/)
+#https://www.virustotal.com/gui/domain/marinecorpshat.com; Blacklisted by Spamhaus DBL, ivmSIP, ivmSIP24, RATS Dyna,  RATS Spam, s5h.net, SORBS SPAM, Spamhaus ZEN; Fraud Score: 80 (https://www.ipqualityscore.com/)
+#Blacklisted by ivmSIP Fraud Score: 73 (https://www.ipqualityscore.com/)
+#https://www.virustotal.com/gui/domain/hwgc.com.pk/relations; Blacklisted by KISA,  TRUNCATE, UCEPROTECTL1, UCEPROTECTL2, UCEPROTECTL3; Fraud Score: 80 (https://www.ipqualityscore.com/)
+
 #Sumber Komunitas/Publik
 
 #Insiden By User
