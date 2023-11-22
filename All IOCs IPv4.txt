@@ -6682,3 +6682,83 @@
 #https://www.virustotal.com/gui/ip-address/119.167.222.135
 #https://www.virustotal.com/gui/ip-address/84.54.51.66
 #https://www.virustotal.com/gui/ip-address/167.94.146.67
+
+#13 November 2023
+148.153.241.164
+23.251.102.251
+205.210.31.23
+23.251.102.253
+198.235.24.254
+36.68.8.100
+95.214.25.144
+198.235.24.132
+#https://www.ipqualityscore.com/free-ip-lookup-proxy-vpn-test/lookup/148.153.241.164
+#https://www.virustotal.com/gui/ip-address/23.251.102.251
+#https://www.virustotal.com/gui/ip-address/205.210.31.23
+#https://www.virustotal.com/gui/ip-address/23.251.102.253
+#https://www.virustotal.com/gui/ip-address/198.235.24.254
+#https://www.virustotal.com/gui/ip-address/36.68.8.100
+#https://www.virustotal.com/gui/ip-address/95.214.25.144
+#https://www.virustotal.com/gui/ip-address/198.235.24.132
+
+#14 November 2023
+23.251.108.99
+#https://www.virustotal.com/gui/ip-address/23.251.108.99
+
+#15 November 2023
+45.79.172.240
+45.79.213.144
+23.239.29.109
+#https://www.virustotal.com/gui/ip-address/45.79.172.240
+#https://www.virustotal.com/gui/ip-address/45.79.213.144
+#https://www.virustotal.com/gui/ip-address/23.239.29.109
+
+#16 November 2023
+20.119.117.83
+205.210.31.105
+198.235.24.111
+#https://www.virustotal.com/gui/ip-address/20.119.117.83
+#https://www.virustotal.com/gui/ip-address/205.210.31.105
+#https://www.virustotal.com/gui/ip-address/198.235.24.111
+
+#17 November 2023
+24.63.60.15
+23.90.160.11
+148.153.241.203
+#https://www.virustotal.com/gui/ip-address/24.63.60.15
+#https://www.virustotal.com/gui/ip-address/23.90.160.11
+#https://www.ipqualityscore.com/free-ip-lookup-proxy-vpn-test/lookup/148.153.241.203
+
+#18 November 2023
+198.235.24.219
+35.203.210.246
+45.156.129.22
+185.156.72.15
+35.216.223.217
+89.248.165.45
+#https://www.virustotal.com/gui/ip-address/198.235.24.219
+#https://www.virustotal.com/gui/ip-address/35.203.210.246
+#https://www.virustotal.com/gui/ip-address/45.156.129.22
+#https://www.virustotal.com/gui/ip-address/185.156.72.15
+#https://www.virustotal.com/gui/ip-address/35.216.223.217
+#https://www.virustotal.com/gui/ip-address/89.248.165.45
+
+#19 November 2023
+167.94.145.54
+194.26.135.124
+205.210.31.58
+#https://www.virustotal.com/gui/ip-address/167.94.145.54
+#https://www.virustotal.com/gui/ip-address/194.26.135.124
+#https://www.virustotal.com/gui/ip-address/205.210.31.58
+
+#20 November 2023
+198.235.24.69
+68.178.166.83
+#https://www.virustotal.com/gui/ip-address/198.235.24.69
+#https://www.virustotal.com/gui/ip-address/68.178.166.83
+
+#21 November 2023
+23.92.24.116
+45.79.28.177
+#https://www.virustotal.com/gui/ip-address/23.92.24.116
+#https://www.virustotal.com/gui/ip-address/45.79.28.177
