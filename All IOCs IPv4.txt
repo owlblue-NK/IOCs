@@ -6919,6 +6919,13 @@
 37.221.93.63
 45.79.222.219
 45.79.222.168
+2.56.247.167
+198.235.24.149
+162.216.150.79
+77.90.185.58
+167.94.146.69
+148.153.241.167
+
 #https://www.virustotal.com/gui/ip-address/181.214.166.113
 #https://www.virustotal.com/gui/ip-address/46.17.102.6
 #https://www.virustotal.com/gui/ip-address/43.163.220.47
@@ -6926,4 +6933,9 @@
 #https://www.virustotal.com/gui/ip-address/37.221.93.63
 #https://www.virustotal.com/gui/ip-address/45.79.222.219
 #https://www.virustotal.com/gui/ip-address/45.79.222.168
-
+https://www.virustotal.com/gui/ip-address/2.56.247.167
+https://www.virustotal.com/gui/ip-address/198.235.24.149
+https://www.virustotal.com/gui/ip-address/162.216.150.79
+https://www.virustotal.com/gui/ip-address/77.90.185.58
+https://www.virustotal.com/gui/ip-address/167.94.146.69
+https://www.ipqualityscore.com/free-ip-lookup-proxy-vpn-test/lookup/148.153.241.167
